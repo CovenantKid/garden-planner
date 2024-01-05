@@ -1,0 +1,31 @@
+{
+  "name": "garden-planner",
+  "version": "1.0.0",
+  "description": "GreenThumb: Your Personal Garden Assistant",
+  "main": "index.js",
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mb739132/Garden-Planner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mb739132/Garden-Planner/issues"
+  },
+  "homepage": "https://github.com/Mb739132/Garden-Planner#readme",
+  "dependencies": {
+    "d3": "^7.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.2",
+    "express-session": "^1.17.3",
+    "mysql2": "^3.6.5",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0",
+    "sequelize": "^6.35.2"
+  }
+}

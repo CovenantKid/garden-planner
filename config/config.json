@@ -1,0 +1,16 @@
+{
+    "development": {
+      "username": "root",
+      "password": "Wakisha46000_", // Use the password you set during MySQL installation
+      "database": "your-database", // Use the name of the database you created
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "test": {
+      // ... (optional, for testing environment)
+    },
+    "production": {
+      // ... (for production environment)
+    }
+  }
+  
